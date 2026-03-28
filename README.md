@@ -1,4 +1,4 @@
-# FitPro Gym Management System
+# Endless Muscles Gym Management System
 
 A production-ready full-stack gym management website with a modern frontend and powerful admin dashboard.
 
